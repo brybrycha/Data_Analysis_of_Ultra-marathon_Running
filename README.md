@@ -103,14 +103,14 @@ Key cleaning steps included:
 Created a new `race_season` column to group by season:
 
 **50mi Races – Avg Speed by Season:**
-- 🍂 Fall: **7.51 km/h**
-- 🌸 Spring: **7.08 km/h**
-- ❄️ Winter: **7.05 km/h**
-- ☀️ Summer: **6.51 km/h**
+-  Fall: **7.51 km/h**
+-  Spring: **7.08 km/h**
+-  Winter: **7.05 km/h**
+-  Summer: **6.51 km/h**
 
 > Runners were **slowest in summer**, likely due to **heat conditions**  
 `[cite: marathon.ipynb]`
 
 ---
 
-📌 *All analysis and visualizations were conducted in `marathon.ipynb` using Python, pandas, and seaborn.*
+*All analysis and visualizations were conducted in `marathon.ipynb` using Python, pandas, and seaborn.*
