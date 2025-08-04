@@ -81,6 +81,7 @@ Key cleaning steps included:
 `[cite: marathon.ipynb]`
 
 > Violin plots show that **gender speed gaps** narrow in longer races
+<img width="576" height="433" alt="image" src="https://github.com/user-attachments/assets/3f3d6e48-9fa5-43a0-b4e1-6a0bb27690a6" />
 
 ---
 
@@ -93,6 +94,7 @@ Key cleaning steps included:
 `[cite: marathon.ipynb]`
 
 > lmplot shows a trend of **decreasing speed with age** for both genders
+<img width="600" height="489" alt="image" src="https://github.com/user-attachments/assets/c437efd6-686c-4331-a4a1-7e32c57e0ab8" />
 
 ---
 
